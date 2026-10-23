@@ -11,7 +11,7 @@ class Personne
 
     public:
         Personne(string n,int a){
-        nom = nom;
+        nom = n;
         age = a;
         }
       void afficher(){
