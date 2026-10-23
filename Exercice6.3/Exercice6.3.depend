@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1792774553 source:c:\users\pc\documents\sql_lab1\exercice6.3\src\produit.cpp
+	"Produit.h"
+
+1792774783 c:\users\pc\documents\sql_lab1\exercice6.3\include\produit.h
+	<iostream>
+	<string>
+
+1792774553 source:c:\users\pc\documents\sql_lab1\exercice6.3\src\produitalimentaire.cpp
+	"ProduitAlimentaire.h"
+
+1792774916 c:\users\pc\documents\sql_lab1\exercice6.3\include\produitalimentaire.h
+	<Produit.h>
+
+1792774553 source:c:\users\pc\documents\sql_lab1\exercice6.3\src\produitelectronique.cpp
+	"ProduitElectronique.h"
+
+1792774755 c:\users\pc\documents\sql_lab1\exercice6.3\include\produitelectronique.h
+	<Produit.h>
+

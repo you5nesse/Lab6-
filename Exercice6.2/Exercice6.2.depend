@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1792774049 source:c:\users\pc\documents\sql_lab1\exercice6.2\src\compte.cpp
+	"Compte.h"
+
+1792774314 c:\users\pc\documents\sql_lab1\exercice6.2\include\compte.h
+	<iostream>
+

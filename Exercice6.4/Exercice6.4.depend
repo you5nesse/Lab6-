@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1792775715 source:c:\users\pc\documents\sql_lab1\exercice6.4\src\contractuel.cpp
+	"Contractuel.h"
+
+1792775734 c:\users\pc\documents\sql_lab1\exercice6.4\include\contractuel.h
+	<Employe.h>
+
+1792775775 c:\users\pc\documents\sql_lab1\exercice6.4\include\employe.h
+	<iostream>
+
+1792775715 source:c:\users\pc\documents\sql_lab1\exercice6.4\src\employe.cpp
+	"Employe.h"
+
+1792775715 source:c:\users\pc\documents\sql_lab1\exercice6.4\src\permanent.cpp
+	"Permanent.h"
+
+1792775794 c:\users\pc\documents\sql_lab1\exercice6.4\include\permanent.h
+	<Employe.h>
+
