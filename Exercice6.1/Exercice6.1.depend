@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1792773127 source:c:\users\pc\documents\sql_lab1\exercice6.1\src\personne.cpp
-	"Personne.h"
-
-1792773317 c:\users\pc\documents\sql_lab1\exercice6.1\include\personne.h
-	<string>
-	<iostream>
-
